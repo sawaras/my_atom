@@ -1,0 +1,7 @@
+autocomplete-paths@2.12.1
+file-icons@2.1.13
+highlight-selected@0.13.1
+monokai@0.24.0
+show-ideographic-space@1.0.2
+
+#tesu
